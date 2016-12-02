@@ -1,0 +1,33 @@
+{
+  "name": "sphero",
+  "version": "1.0.0",
+  "description": "setup basic cylonjs sphero",
+  "main": "sphero.js",
+  "dependencies": {
+    "cylon": "^1.3.0",
+    "cylon-firmata": "^0.24.0",
+    "cylon-gpio": "^0.30.1",
+    "cylon-i2c": "^0.26.1",
+    "cylon-keyboard": "^0.17.0",
+    "cylon-sphero-ble": "^0.11.0",
+    "keypress": "^0.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "sphero.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterwilkinson/sphero.git"
+  },
+  "keywords": [
+    "sphero",
+    "cylonjs"
+  ],
+  "author": "Peter Wilkinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterwilkinson/sphero/issues"
+  },
+  "homepage": "https://github.com/peterwilkinson/sphero#readme"
+}
